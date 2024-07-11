@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aftabshaikhraza
 - 👀 I’m interested in Web dev, AI, Data science, Software engg
-- 🌱 I’m currently studying Computer engineering
-- 📫 How to reach me on LinkedIN @/Aftab Shaikh Raza
+- 🌱 I have completed Computer engineering
+- 📫 
 
 <!---
 aftabshaikhraza/aftabshaikhraza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
