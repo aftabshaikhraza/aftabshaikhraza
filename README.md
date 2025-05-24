@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aftabshaikhraza
-- 👀 I’m interested in Web dev, AI, Data science, Software engg
-- 🌱 I have completed Computer engineering and currently pursuing MS in Artificial Intelligence 
-- Commited to learn new things everyday 
+👋 Hi, I’m **Aftab Shaikh** (@aftabshaikhraza)  
+🎓 B.E. in Computer Engineering | Pursuing M.S. in Artificial Intelligence  
+💡 Interested in Machine Learning, AI, Data Science, and Software Engineering  
+🚀 Passionate about building projects, solving problems, and learning every day  
 
 <!---
 aftabshaikhraza/aftabshaikhraza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
